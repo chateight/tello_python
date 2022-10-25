@@ -1,3 +1,3 @@
 # tello_python
 
-contoril the tello from python scripts
+control the tello from python scripts
