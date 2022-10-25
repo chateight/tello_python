@@ -1,3 +1,4 @@
 # tello_python
+# original https://github.com/dji-sdk/Tello-Python
 
-control the tello from python scripts
+to control the tello from python scripts
