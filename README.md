@@ -4,4 +4,4 @@ original <https://github.com/dji-sdk/Tello-Python>
 
 to control the tello from python scripts
 
-You need to make "log" directory to log out the states
+You need to make "log" directory to log the states
