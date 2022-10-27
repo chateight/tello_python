@@ -71,4 +71,3 @@ class Tello:
 
     def get_log(self):
         return self.log
-
