@@ -31,4 +31,3 @@ for stat in log:
     str = stat.return_stats()
     out.write(str)
 
-    
